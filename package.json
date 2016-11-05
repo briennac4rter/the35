@@ -3,10 +3,7 @@
 	"version": "0.0.0",
 	"private": true,
 	"description": "Girls Who Code web-app",
-	"main": "web.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	}
+	"main": "web.js"
 }{
 	"dependencies": {
 		"body-parser": "~1.15.1",
